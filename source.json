@@ -1,0 +1,38 @@
+{
+  "name": "BT Log",
+  "identifier": "com.vivek.btlog.source",
+  "subtitle": "Body Transformation Basics tracker",
+  "iconURL": "https://raw.githubusercontent.com/vivekpayasi/bt_log-releases/main/icon.png",
+  "website": "https://github.com/vivekpayasi/bt_log-releases",
+  "tintColor": "#E3A44C",
+  "apps": [
+    {
+      "name": "BT Log",
+      "bundleIdentifier": "com.vivek.btlog",
+      "developerName": "Vivek",
+      "subtitle": "Body Transformation Basics tracker",
+      "localizedDescription": "A personal tracker for Calimove's Body Transformation Basics: sessions in order on the days that suit you, test-week variations, rep logs, course links, and a rest timer that alerts with the screen locked.",
+      "iconURL": "https://raw.githubusercontent.com/vivekpayasi/bt_log-releases/main/icon.png",
+      "tintColor": "#E3A44C",
+      "screenshots": [],
+      "version": "0.1.0",
+      "buildVersion": "2",
+      "versionDate": "2026-10-28",
+      "versionDescription": "First release: the Body Transformation Basics prep phase as 15 sessions you do in order, on any days, with the next session's earliest date. Test-week variations carry into the workouts, every session logs reps and a note, each day and exercise links to the course, and the rest timer alerts with the screen locked.",
+      "downloadURL": "https://github.com/vivekpayasi/bt_log-releases/releases/download/v0.1.0/btlog.ipa",
+      "size": 109395,
+      "minOSVersion": "26.0",
+      "versions": [
+        {
+          "version": "0.1.0",
+          "buildVersion": "2",
+          "date": "2026-10-28",
+          "localizedDescription": "First release: the Body Transformation Basics prep phase as 15 sessions you do in order, on any days, with the next session's earliest date. Test-week variations carry into the workouts, every session logs reps and a note, each day and exercise links to the course, and the rest timer alerts with the screen locked.",
+          "downloadURL": "https://github.com/vivekpayasi/bt_log-releases/releases/download/v0.1.0/btlog.ipa",
+          "size": 109395,
+          "minOSVersion": "26.0"
+        }
+      ]
+    }
+  ]
+}
